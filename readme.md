@@ -1,14 +1,3 @@
-# Docker Containerization Assignment
-
-## 1. Docker Image Build
-![Docker Build Output](./screenshots/build.png)
-
-## 2. Running Container
-![Running Container](./screenshots/run.png)
-
-## 3. Docker PS Output
-![Docker PS](./screenshots/ps.png)
-
 # Deployment Process & Proof
 ## 1. Amazon S3 Bucket Creation
 ![Amazon S3 Bucket Creation](./screenshots/Screenshot1.png)
